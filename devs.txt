@@ -1,4 +1,4 @@
-Felipe
-Samuel
-Willian
-matheus
+Felipe (https://github.com/FelipeDrehmer/lab1)
+Samuel ()
+Willian (https://github.com/WillianQuincozes/lab1)
+Matheus 
